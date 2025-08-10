@@ -36,5 +36,5 @@ Try it live here:
 ### Installation
 
 1. Clone the repository  
-```bash
-git clone https://github.com/yourusername/lawyer-appointment-booking.git
+2. install all dependencies by npm i in command line..
+3. than run npm run dev
